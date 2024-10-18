@@ -1,7 +1,8 @@
 # Introdução
+Este repositório reúne scripts que criei para extrair informações dos meus gastos financeiros que estão concentrados no aplicativo [Organizze](https://www.organizze.com.br/). Os dados extraídos são salvos em arquivos CSV, facilitando a criação de Dashboards e análises mais apuradas.
 
-#Organizze API
-
+# Organizze API
+Entendo um pouco sobre a API do Organizze:
 
 A autenticação de todas request é via Http Basic com o Username e Password descritos abaixo:
 - Username: Email da conta do Organizze
